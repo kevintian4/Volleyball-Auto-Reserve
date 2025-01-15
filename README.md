@@ -17,7 +17,7 @@ To set up this project on your local machine, follow these steps:
 
 Start by cloning the repository to your local machine:
 
-`git clone https://github.com/your-username/volleyball-auto-reserve.git`
+`git clone https://github.com/kevintian4/volleyball-auto-reserve.git`
 
 ### 2. Install dependencies
 
@@ -27,7 +27,7 @@ Once your virtual environment is active, install the necessary dependencies by r
 
 ### 3. Set up environment variables
 
-Create a `.env` file in the root directory of your project and add your own account credentials. For example:
+Create a `.env` file in the root directory of your project and add your own account credentials in the `.env` file. For example:
 
 ```bash
 EMAIL = "myemail101@gmail.com"
