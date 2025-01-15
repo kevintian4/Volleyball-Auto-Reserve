@@ -8,3 +8,33 @@ This is a Selenium-based project designed to automate the process of reserving v
 - Automates the process of reserving a volleyball spot.
 - Provides a fast and efficient solution to secure spots before they fill up.
 - Helps when you're unavailable to manually book or are only able to book for one person.
+
+## Set up
+
+To set up this project on your local machine, follow these steps:
+
+### Clone the repository
+
+Start by cloning the repository to your local machine:
+
+`git clone https://github.com/your-username/volleyball-auto-reserve.git`
+
+### Install dependencies
+
+Once your virtual environment is active, install the necessary dependencies by running:
+
+`pip install -r requirements.txt`
+
+### Set up environment variables
+
+Create a `.env` file in the root directory of your project and add your own account credentials. For example:
+
+```bash
+EMAIL = "myemail101@gmail.com"
+PASSWORD = "strongPassword123"
+```
+
+### Run the script
+
+Once everything is set up, you can run the script to automate the reservation process.
+
