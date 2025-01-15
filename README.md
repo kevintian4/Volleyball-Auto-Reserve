@@ -34,7 +34,9 @@ EMAIL = "myemail101@gmail.com"
 PASSWORD = "strongPassword123"
 ```
 
-### 4. Run the script
+### 4. Run the firstLogin.py and manually login once
 
-Once everything is set up, you can run the script to automate the reservation process.
+After you have logged in once, you will never need to run this file again as your cookies will be saved and login will be automatic upon running `main.py`
+
+### 5. For future reservations, simply run main.py
 
