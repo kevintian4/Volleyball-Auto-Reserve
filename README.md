@@ -13,19 +13,19 @@ This is a Selenium-based project designed to automate the process of reserving v
 
 To set up this project on your local machine, follow these steps:
 
-### Clone the repository
+### 1. Clone the repository
 
 Start by cloning the repository to your local machine:
 
 `git clone https://github.com/your-username/volleyball-auto-reserve.git`
 
-### Install dependencies
+### 2. Install dependencies
 
 Once your virtual environment is active, install the necessary dependencies by running:
 
 `pip install -r requirements.txt`
 
-### Set up environment variables
+### 3. Set up environment variables
 
 Create a `.env` file in the root directory of your project and add your own account credentials. For example:
 
@@ -34,7 +34,7 @@ EMAIL = "myemail101@gmail.com"
 PASSWORD = "strongPassword123"
 ```
 
-### Run the script
+### 4. Run the script
 
 Once everything is set up, you can run the script to automate the reservation process.
 
